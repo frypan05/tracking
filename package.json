@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "ether": "^0.0.9",
+    "ethers": "^6.11.1",
     "hardhat": "^2.22.2",
     "next": "14.1.4",
     "react": "^18",
