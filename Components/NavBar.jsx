@@ -30,7 +30,7 @@ const NavBar = () => {
             >
               <Logo color="text-white" /> 
               <span className="ml-2 text-xl font-bold tracking-wide text-gray-100 uppercase">
-                Company
+                GoFund
               </span>
             </a>
             <ul className="flex items-center hidden space-x-8 lg:flex">
