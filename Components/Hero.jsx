@@ -50,7 +50,7 @@ const Hero = ({ titleData, createCampaign }) => {
                 aria-label=""
                 className="inline-flex items-center font-semibold tracking-wider transition-colors duration-200 text-teal-accent-400 hover:text-teal-accent-700 text-gray-200"
               >
-                Learn more
+          
                 <svg
                   className="inline-block w-3 ml-2"
                   fill="currentColor"
