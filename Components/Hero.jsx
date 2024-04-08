@@ -40,7 +40,7 @@ const Hero = ({ titleData, createCampaign }) => {
             <div className="w-full max-w-xl mb-12 xl:mb-0 xl:pr-16 xl:w-7/12">
               <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-white sm:text-5xl sm:leading-none">
                 GoFund <br className="hidden md:block" />
-                Crowd Funding GoFund
+                A Decentralized Crowdfunding Marketplace
               </h2>
               <p className="max-w-xl mb-4 text-base text-gray-200 md:text-lg">
               This decentralized supply chain marketplace is an online platform that connects buyers and sellers within the supply chain ecosystem. It serves as a centralized hub where businesses can procure raw materials, components, finished products, or services from suppliers, manufacturers, distributors, and other partners involved in the production and distribution process.
