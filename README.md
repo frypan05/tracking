@@ -11,6 +11,7 @@ This project demonstrates a decentralized web3 transaction use case.
 - Hardhat
 - Ethers js
 - Web3Modal
+- MetaMask
 
 ![1](https://github.com/frypan05/tracking/assets/95771231/767561fa-1e1d-462f-866f-55613abd96b1)
 
