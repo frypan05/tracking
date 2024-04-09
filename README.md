@@ -25,3 +25,4 @@ This project demonstrates a decentralized web3 transaction use case.
 
 
 # Made with ❤️ on ETHERIUM Blockchain.
+- Developer: Daksh Sharma
