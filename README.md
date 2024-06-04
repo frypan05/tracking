@@ -24,5 +24,5 @@ This project demonstrates a decentralized web3 transaction use case.
 ![5](https://github.com/frypan05/tracking/assets/95771231/cd9804e5-fbac-4d9a-8444-35d8b9f43bfb)
 
 
-# Made with ❤️ on ETHERIUM Blockchain.
+# Made with ❤️ on ETHEREUM Blockchain.
 - Developer: Daksh Sharma
