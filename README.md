@@ -3,7 +3,7 @@
 
 Welcome to the Next Evolution of Crowdfunding: Transparent, Trustworthy, and Truly Decentralized. Ignite Change, Ignite Clarity, Ignite Privacy.
 
-This project demonstrates a decentralized web3 transaction use case.
+This project demonstrates a decentralized web3 transaction use cases.
 
 - Next.js
 - React.js
